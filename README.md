@@ -10,5 +10,11 @@ Esse projeto é uma adaptação de um código incrivel!
  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 <p align="center">
-## 🌐 Projeto
+## 🌐 Projeto ##
 </p>
+Este projeto é um estudo direcionado como uma tarefa em um bootcamp, o código original é do incrivel programador @GuilhermeManzano . A tradução, adaptação, edição e entendimento do código foi de trabalho meu. É importante informar que sou um novo programador e conforme for me desenvolvendo eu vou incrementando o código, espero que gostem!
+</p>
+<p align="center">
+## 😇 Importante ##
+</p>
+É importante reforçar que segundo a licença MIT, o código pode ser usado desde que haja os devidos créditos, portanto, lembro a vocês que o código original foi feito pelo incrivel programador GuilhermeManzano, sigam o mesmo aqui no seu perfil e vejam mais projetos incriveis:"[http://https://github.com/GuilhermeManzano](https://github.com/GuilhermeManzano)"
